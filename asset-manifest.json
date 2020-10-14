@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lipa/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lipa/static/js/main.16312f82.chunk.js",
-    "main.js.map": "/lipa/static/js/main.16312f82.chunk.js.map",
+    "main.css": "/lipa/static/css/main.523f09c5.chunk.css",
+    "main.js": "/lipa/static/js/main.b7a8add8.chunk.js",
+    "main.js.map": "/lipa/static/js/main.b7a8add8.chunk.js.map",
     "runtime-main.js": "/lipa/static/js/runtime-main.c4f275df.js",
     "runtime-main.js.map": "/lipa/static/js/runtime-main.c4f275df.js.map",
     "static/js/2.bd352239.chunk.js": "/lipa/static/js/2.bd352239.chunk.js",
     "static/js/2.bd352239.chunk.js.map": "/lipa/static/js/2.bd352239.chunk.js.map",
     "index.html": "/lipa/index.html",
-    "precache-manifest.f3b72781e94a9c63a8f5f71bb8cc45b6.js": "/lipa/precache-manifest.f3b72781e94a9c63a8f5f71bb8cc45b6.js",
+    "precache-manifest.c4465648645298c9dc448ebb259aa178.js": "/lipa/precache-manifest.c4465648645298c9dc448ebb259aa178.js",
     "service-worker.js": "/lipa/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lipa/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/lipa/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.bd352239.chunk.js.LICENSE.txt": "/lipa/static/js/2.bd352239.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lipa/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/lipa/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c4f275df.js",
     "static/js/2.bd352239.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.16312f82.chunk.js"
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.b7a8add8.chunk.js"
   ]
 }
